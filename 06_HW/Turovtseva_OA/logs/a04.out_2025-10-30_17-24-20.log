@@ -1,0 +1,464 @@
+Program: /home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out
+
+--- R = 8 FILE = nv_10.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Jttweitgnlpjm 9570066
+Lfegnke 9161234
+Phpnmyhtntkwh 4172124
+Prdpagdudkdcyf 5616391
+Qnakxxshs 6759808
+Relwuif 9040350
+Rwmfxxdwqkph 8074018
+Rxoqvkx 4585929
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.00
+
+--- R = 8 FILE = nv_20.txt ---
+Old array:
+Ywvgnj 7842237
+Wdybvb 1037454
+Wbxnceqwibal 1567862
+Sjhfogds 2129274
+Rxoqvkx 4585929
+Rwmfxxdwqkph 8074018
+Relwuif 9040350
+Rcloxlivka 4104486
+New array:
+Cdnbbfluosbd 9999941
+Dmtyx 7160004
+Esbxbnegtsqy 6755124
+Euwbqgpfr 3851803
+Fbpfqmy 3520377
+Jttweitgnlpjm 9570066
+Lfegnke 9161234
+Oeejwuinolrcns 3738656
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.00
+
+--- R = 8 FILE = nv_50000.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaafc 7995354
+Aabkvvonvrwx 2807981
+Aabptjuvyyd 1366555
+Aabswpnmtitdt 2757475
+Aaccbjrnicedo 6853118
+Aacjlqheuppphq 4003660
+Aacl 5893051
+Aacrqy 1857152
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.01
+
+--- R = 8 FILE = nv_100000_sort.txt ---
+Old array:
+Aaafc 7995354
+Aaafx 2586417
+Aaanvkhaoxnxt 2149307
+Aaatimfdv 5510681
+Aaawlsbbadpyvk 1021274
+Aabgtsra 6996223
+Aabivkglpeu 9236476
+Aabkvvonvrwx 2807981
+New array:
+Aaafc 7995354
+Aaafx 2586417
+Aaanvkhaoxnxt 2149307
+Aaatimfdv 5510681
+Aaawlsbbadpyvk 1021274
+Aabgtsra 6996223
+Aabivkglpeu 9236476
+Aabkvvonvrwx 2807981
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.01
+
+--- R = 8 FILE = nv_100000.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaafc 7995354
+Aaafx 2586417
+Aaanvkhaoxnxt 2149307
+Aaatimfdv 5510681
+Aaawlsbbadpyvk 1021274
+Aabgtsra 6996223
+Aabivkglpeu 9236476
+Aabkvvonvrwx 2807981
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.03
+
+--- R = 8 FILE = nv_500000.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaabhlet 2353627
+Aaadswd 8399273
+Aaadug 8203011
+Aaaexyidtc 9596943
+Aaaf 8486722
+Aaafc 7995354
+Aaafcgyxhily 4179779
+Aaaftdrbqsujcw 9006442
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.39
+
+--- R = 8 FILE = nv_1000000-2.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaabhlet 2353627
+Aaabhlet 2353627
+Aaadswd 8399273
+Aaadswd 8399273
+Aaadug 8203011
+Aaadug 8203011
+Aaaexyidtc 9596943
+Aaaexyidtc 9596943
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 1.11
+
+--- R = 8 FILE = nv_1000000_sort.txt ---
+Old array:
+Aaaa 3784922
+Aaaac 6150724
+Aaaanilmkhiadd 1300362
+Aaabhlet 2353627
+Aaacbluw 6089264
+Aaacwqm 3534419
+Aaadswd 8399273
+Aaadug 8203011
+New array:
+Aaaa 3784922
+Aaaac 6150724
+Aaaanilmkhiadd 1300362
+Aaabhlet 2353627
+Aaacbluw 6089264
+Aaacwqm 3534419
+Aaadswd 8399273
+Aaadug 8203011
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.12
+
+--- R = 8 FILE = nv_1000000-s.txt ---
+Old array:
+Aaabhlet 2353627
+Aaabhlet 2353627
+Aaadswd 8399273
+Aaadswd 8399273
+Aaadug 8203011
+Aaadug 8203011
+Aaaexyidtc 9596943
+Aaaexyidtc 9596943
+New array:
+Aaabhlet 2353627
+Aaabhlet 2353627
+Aaadswd 8399273
+Aaadswd 8399273
+Aaadug 8203011
+Aaadug 8203011
+Aaaexyidtc 9596943
+Aaaexyidtc 9596943
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.12
+
+--- R = 8 FILE = nv_1000000.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaaa 3784922
+Aaaac 6150724
+Aaaanilmkhiadd 1300362
+Aaabhlet 2353627
+Aaacbluw 6089264
+Aaacwqm 3534419
+Aaadswd 8399273
+Aaadug 8203011
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 1.12
+
+--- R = 8 FILE = nv_10000000-10.txt ---
+Old array:
+Ywvgnj 7842237
+Ywvgnj 7842237
+Ywvgnj 7842237
+Ywvgnj 7842236
+New array:
+Ywvgnj 7842236
+Ywvgnj 7842237
+Ywvgnj 7842237
+Ywvgnj 7842237
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.00
+
+--- R = 8 FILE = nv_10000000-11.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 19.24
+
+--- R = 8 FILE = nv_10000000-12.txt ---
+Old array:
+Yyyyxgedcalq 1360453
+Yyyywl 2010798
+Yyyyvveyaggehq 1799751
+Yyyyvqtbmucpk 3029928
+Yyyyq 3257212
+Yyyynfgf 3384579
+Yyyyn 7843319
+Yyyykmopxqqhv 8876069
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 2.06
+
+--- R = 8 FILE = nv_10000000-3.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 19.37
+
+--- R = 8 FILE = nv_10000000-4.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 19.35
+
+--- R = 8 FILE = nv_10000000-5.txt ---
+Old array:
+Yyyyxgedcalq 1360453
+Yyyyxgedcalq 1360453
+Yyyyvveyaggehq 1799751
+Yyyyvveyaggehq 1799751
+Yyyyq 3257212
+Yyyyq 3257212
+Yyyynfgf 3384579
+Yyyynfgf 3384579
+New array:
+Aaaa 3784922
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaawtln 1334878
+Aaaabla 9598262
+Aaaabla 9598262
+Aaaac 6150724
+Aaaac 6150724
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 2.08
+
+--- R = 8 FILE = nv_10000000-7.txt ---
+Old array:
+Aaaa 3784922
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaabla 9598262
+New array:
+Aaaa 3784922
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaabla 9598262
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 3.17
+
+--- R = 8 FILE = nv_10000000-8.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaaa 3784922
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaabla 9598262
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 42.90
+
+--- R = 8 FILE = nv_10000000-9.txt ---
+Old array:
+Ywvgnj 7842237
+New array:
+Ywvgnj 7842237
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 0.00
+
+--- R = 8 FILE = nv_10000000-n.txt ---
+Old array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 1.46
+
+--- R = 8 FILE = nv_10000000_sort.txt ---
+Old array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 1.49
+
+--- R = 8 FILE = nv_10000000.txt ---
+Old array:
+Jttweitgnlpjm 9570066
+Prdpagdudkdcyf 5616391
+Phpnmyhtntkwh 4172124
+Wbxnceqwibal 1567862
+Ywvgnj 7842237
+Qnakxxshs 6759808
+Relwuif 9040350
+Rxoqvkx 4585929
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 19.48
+
+--- R = 8 FILE = nv_10000000-v.txt ---
+Old array:
+Qfuo 1000000
+Ofysudamwfukwg 1000003
+Ufbj 1000003
+Wvwgk 1000003
+Nsgdbegqmjtdbh 1000005
+Qoeiig 1000005
+Ccogqlmslk 1000006
+Hyswjdg 1000007
+New array:
+Aaaa 3784922
+Aaaaawtln 1334878
+Aaaaba 4281315
+Aaaabla 9598262
+Aaaac 6150724
+Aaaadsmnqsc 5420200
+Aaaagbfqqgpkhp 6000629
+Aaaagnvm 5534070
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Turovtseva_OA/a04.out : Task = 4 Diff = 0 Elapsed = 18.99
+
+
