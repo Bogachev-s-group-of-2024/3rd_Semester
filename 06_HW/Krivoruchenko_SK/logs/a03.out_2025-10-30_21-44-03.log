@@ -1,4 +1,4 @@
-Program: /home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out
+Program: /home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out
 
 --- R = 8 FILE = nv_10.txt ---
 Source list:
@@ -19,12 +19,7 @@ Qnakxxshs 6759808
 Relwuif 9040350
 Rwmfxxdwqkph 8074018
 Rxoqvkx 4585929
-/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out : Task = 1 Diff = 0 Elapsed = 0.00
-
-------------------------------------------------------------
-total allocation requests:     21 ; max. mem used 0 kBytes
-leak      0 Bytes in 0 blocks
-WORK TIME - 00:00:00.00
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out : Task = 3 Diff = 0 Elapsed = 0.00
 
 --- R = 8 FILE = nv_20.txt ---
 Source list:
@@ -45,12 +40,7 @@ Fbpfqmy 3520377
 Jttweitgnlpjm 9570066
 Lfegnke 9161234
 Oeejwuinolrcns 3738656
-/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out : Task = 1 Diff = 0 Elapsed = 0.00
-
-------------------------------------------------------------
-total allocation requests:     41 ; max. mem used 0 kBytes
-leak      0 Bytes in 0 blocks
-WORK TIME - 00:00:00.00
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out : Task = 3 Diff = 0 Elapsed = 0.00
 
 --- R = 8 FILE = nv_50000.txt ---
 Source list:
@@ -71,12 +61,7 @@ Aaccbjrnicedo 6853118
 Aacjlqheuppphq 4003660
 Aacl 5893051
 Aacrqy 1857152
-/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out : Task = 1 Diff = 0 Elapsed = 15.70
-
-------------------------------------------------------------
-total allocation requests: 100001 ; max. mem used 1660 kBytes
-leak      0 Bytes in 0 blocks
-WORK TIME - 00:00:15.75
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out : Task = 3 Diff = 0 Elapsed = 9.31
 
 --- R = 8 FILE = nv_100000_sort.txt ---
 Source list:
@@ -97,12 +82,7 @@ Aaawlsbbadpyvk 1021274
 Aabgtsra 6996223
 Aabivkglpeu 9236476
 Aabkvvonvrwx 2807981
-/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out : Task = 1 Diff = 0 Elapsed = 17.19
-
-------------------------------------------------------------
-total allocation requests: 200001 ; max. mem used 3322 kBytes
-leak      0 Bytes in 0 blocks
-WORK TIME - 00:00:17.27
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out : Task = 3 Diff = 0 Elapsed = 14.41
 
 --- R = 8 FILE = nv_100000.txt ---
 Source list:
@@ -123,11 +103,6 @@ Aaawlsbbadpyvk 1021274
 Aabgtsra 6996223
 Aabivkglpeu 9236476
 Aabkvvonvrwx 2807981
-/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a01.out : Task = 1 Diff = 0 Elapsed = 65.95
-
-------------------------------------------------------------
-total allocation requests: 200001 ; max. mem used 3322 kBytes
-leak      0 Bytes in 0 blocks
-WORK TIME - 00:01:06.07
+/home/skk/3rd_Sem_Bogachev/2025.10.31/dist/Krivoruchenko_SK/a03.out : Task = 3 Diff = 0 Elapsed = 40.64
 
 
