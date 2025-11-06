@@ -1,0 +1,116 @@
+Source tree:
+Jttweitgnlpjm 9570066
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 3 Elapsed = 0.00
+./a.out : Task = 2 Result = 7 Elapsed = 0.00
+./a.out : Task = 3 Result = 3 Elapsed = 0.00
+./a.out : Task = 4 Result = 6 Elapsed = 0.00
+./a.out : Task = 5 Result = 5 Elapsed = 0.00
+./a.out : Task = 6 Result = 1 Elapsed = 0.00
+New tree:
+Jttweitgnlpjm 9570066
+  Prdpagdudkdcyf 5616391
+Source tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 166588 Elapsed = 0.01
+./a.out : Task = 2 Result = 47 Elapsed = 0.02
+./a.out : Task = 3 Result = 40018 Elapsed = 0.46
+./a.out : Task = 4 Result = 24 Elapsed = 0.02
+./a.out : Task = 5 Result = 166825 Elapsed = 0.01
+./a.out : Task = 6 Result = 1 Elapsed = 0.03
+New tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+Source tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 16792 Elapsed = 0.00
+./a.out : Task = 2 Result = 38 Elapsed = 0.00
+./a.out : Task = 3 Result = 4581 Elapsed = 0.01
+./a.out : Task = 4 Result = 21 Elapsed = 0.00
+./a.out : Task = 5 Result = 16417 Elapsed = 0.00
+./a.out : Task = 6 Result = 1 Elapsed = 0.00
+New tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+Source tree:
+Ywvgnj 7842237
+  Wdybvb 1037454
+./a.out : Task = 1 Result = 1 Elapsed = 0.00
+./a.out : Task = 2 Result = 20 Elapsed = 0.00
+./a.out : Task = 3 Result = 1 Elapsed = 0.00
+./a.out : Task = 4 Result = 19 Elapsed = 0.00
+./a.out : Task = 5 Result = 19 Elapsed = 0.00
+./a.out : Task = 6 Result = 1 Elapsed = 0.00
+New tree:
+Ywvgnj 7842237
+Source tree:
+Aaafc 7995354
+  Aaafx 2586417
+./a.out : Task = 1 Result = 1 Elapsed = 0.00
+./a.out : Task = 2 Result = 100000 Elapsed = 0.00
+./a.out : Task = 3 Result = 1 Elapsed = 7.47
+./a.out : Task = 4 Result = 99999 Elapsed = 0.01
+./a.out : Task = 5 Result = 99999 Elapsed = 0.00
+./a.out : Task = 6 Result = 1 Elapsed = 0.00
+New tree:
+Aaafc 7995354
+  Aaafx 2586417
+Source tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 3333652 Elapsed = 0.43
+./a.out : Task = 2 Result = 58 Elapsed = 0.51
+./a.out : Task = 3 Result = 720860 Elapsed = 19.81
+./a.out : Task = 4 Result = 32 Elapsed = 0.79
+./a.out : Task = 5 Result = 3332697 Elapsed = 0.46
+./a.out : Task = 6 Result = 1 Elapsed = 1.05
+New tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+Source tree:
+Qfuo 1000000
+  Ofysudamwfukwg 1000003
+  Ufbj 1000003
+./a.out : Task = 1 Result = 3249883 Elapsed = 0.43
+./a.out : Task = 2 Result = 59 Elapsed = 0.50
+./a.out : Task = 3 Result = 729530 Elapsed = 20.13
+./a.out : Task = 4 Result = 33 Elapsed = 0.77
+./a.out : Task = 5 Result = 3500235 Elapsed = 0.45
+./a.out : Task = 6 Result = 1 Elapsed = 2.01
+New tree:
+Source tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 3333652 Elapsed = 0.43
+./a.out : Task = 2 Result = 59 Elapsed = 0.52
+./a.out : Task = 3 Result = 718316 Elapsed = 19.89
+./a.out : Task = 4 Result = 48 Elapsed = 0.77
+./a.out : Task = 5 Result = 3332899 Elapsed = 0.46
+./a.out : Task = 6 Result = 1 Elapsed = 1.05
+New tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+Source tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
+./a.out : Task = 1 Result = 3333626 Elapsed = 0.43
+./a.out : Task = 2 Result = 59 Elapsed = 0.51
+./a.out : Task = 3 Result = 718300 Elapsed = 19.78
+./a.out : Task = 4 Result = 48 Elapsed = 0.76
+./a.out : Task = 5 Result = 3332749 Elapsed = 0.46
+./a.out : Task = 6 Result = 1 Elapsed = 1.05
+New tree:
+Jttweitgnlpjm 9570066
+  Dmtyx 7160004
+  Prdpagdudkdcyf 5616391
