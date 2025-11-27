@@ -28,7 +28,7 @@ for prog in ./a*.out; do
     for testname in $(ls -1 "$TEST_DIR" | sort -r); do
         test="$TEST_DIR/$testname"
 
-        for ((m = 3; m < 30; m=m+5)); do
+        for ((m = 3; m < 8; m=m+1)); do
             line1="--- TEST = $test ---"
             line2="--- ./$base R=$R M=$m ---"
 
