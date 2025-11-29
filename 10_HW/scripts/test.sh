@@ -12,7 +12,7 @@ mkdir -p ./logs
 # Текущее время для имени файлов лога
 TS="$(date +"%Y-%m-%d_%H-%M-%S")"
 
-for prog in ./a*.out; do
+for prog in $(ls -1 ./a*.out | sort); do
     # Если файлов нет — пропускаем
     [ -e "$prog" ] || continue
 
@@ -28,7 +28,7 @@ for prog in ./a*.out; do
     for testname in $(ls -1 "$TEST_DIR" | sort -r); do
         test="$TEST_DIR/$testname"
 
-        for ((m = 3; m < 8; m=m+1)); do
+        for m in 1 2 3 10 50; do
             line1="--- TEST = $test ---"
             line2="--- ./$base R=$R M=$m ---"
 
